@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "my-awesome-launcher",
+    "displayName": "My Awesome Launcher",
+    "description": "Describe me",
+    "rootNerdletId": "my-awesome-nerdlet"
+}

@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "nr1-template",
+  "version": "0.1.0",
+  "scripts": {
+    "start": ". ./.codesandbox/boot.sh"
+  },
+  "nr1": {
+    "uuid": "00000000-0000-0000-0000-000000000000"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "16.6.3",
+    "react-dom": "16.6.3"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not ie < 11",
+    "not dead"
+  ]
+}

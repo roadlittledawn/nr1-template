@@ -1,0 +1,9 @@
+.idea
+.nos
+
+coverage
+dist
+node_modules
+tmp
+
+*.DS_Store
